@@ -13,4 +13,4 @@ This is a simple web application built with React that generates secure password
 
 ## Demo
 
-You can try the [Password Generator App here](https://your-app-url.com).
+You can try the [Password Generator App here](https://password-generator0001.netlify.app/).
